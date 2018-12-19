@@ -1,7 +1,7 @@
 {
   "name": "@mathewparet/form-error-control",
-  "version": "1.0.1",
-  "description": "A form control mechanism to handle forms and errors and disable controls or show errors accordingly",
+  "version": "1.0.2",
+  "description": "A form control mechanism to handle forms and errors returned by laravel and disable controls or show errors accordingly",
   "main": "src/form.js",
   "files": [
     "src/*"
